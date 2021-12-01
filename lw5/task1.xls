@@ -1,0 +1,45 @@
+﻿Font	Size	Mark	Color	Underline	UnderlineСolor	CrossedOut	DoubleCrossedOut	Superscript	Subscript	Shift	SmallCaps	AllUppercase	AlignTheHeightOfCharacters
+Verdana	3600	default	red	no	no	true	false	false	false	0	false	false	false
+Arial	1	bold italic	black	line	white	false	true	true	false	50	false	true	true
+Calibri	24	bold	green	wave	red	false	true	false	true	-100	true	false	true
+Times New Roman	44	italic	white	dotted	red	true	false	true	false	100	false	true	false
+Courier	24	bold italic	blue	line	blue	true	false	false	true	-100	false	true	false
+Courier	44	default	blue	dotted	red	false	true	false	false	0	false	true	true
+Courier	3600	italic	black	dotted	black	false	true	false	true	-1	true	false	false
+Times New Roman	1	bold	red	wave	blue	true	false	true	false	50	true	false	true
+Verdana	44	bold	black	no	no	false	false	false	true	-100	false	true	true
+Times New Roman	1	default	red	wave	white	false	true	false	true	-100	false	true	false
+Arial	24	italic	red	line	black	true	false	false	true	-1	false	true	true
+Calibri	3600	default	white	line	blue	false	true	true	false	1	true	false	false
+Verdana	3600	bold italic	blue	wave	black	false	true	true	false	100	true	false	true
+Calibri	24	bold	green	dotted	white	true	false	true	false	1	false	true	true
+Courier	1	bold italic	white	no	no	false	true	false	true	-50	true	false	false
+Arial	44	bold italic	green	dotted	red	false	true	true	false	50	true	false	false
+Verdana	44	italic	white	wave	white	false	true	true	false	1	true	false	false
+Courier	1	italic	green	no	no	true	false	true	false	1	false	true	true
+Verdana	3600	default	green	line	black	true	false	true	false	50	false	true	false
+Arial	44	bold	green	line	blue	false	true	true	false	100	false	true	false
+Times New Roman	24	bold	green	no	no	false	true	false	true	-1	false	true	false
+Arial	24	default	black	wave	red	true	false	false	true	-50	false	true	true
+Times New Roman	3600	bold	green	dotted	black	false	true	false	true	-50	true	false	true
+Times New Roman	1	bold italic	blue	line	red	true	false	true	false	1	false	true	true
+Calibri	1	bold	white	wave	black	false	false	false	true	-1	false	true	true
+Verdana	44	italic	blue	dotted	blue	false	true	false	true	-1	false	true	false
+Calibri	24	italic	white	no	no	true	false	true	false	50	false	true	true
+Calibri	3600	bold italic	red	dotted	red	false	false	true	false	1	false	true	true
+Courier	1	bold	blue	wave	white	false	false	false	false	0	true	false	false
+Arial	1	italic	white	dotted	black	false	true	false	true	-100	true	false	true
+Arial	1	default	blue	no	no	true	false	true	false	100	false	true	false
+Courier	3600	bold italic	red	wave	white	false	true	true	false	100	false	false	false
+Calibri	44	bold italic	blue	wave	black	false	false	true	false	50	false	false	false
+Times New Roman	24	bold italic	black	line	blue	true	false	false	false	0	false	true	false
+Courier	44	italic	red	no	no	false	true	true	false	50	false	true	true
+Calibri	24	bold italic	black	dotted	black	true	false	true	false	100	false	true	false
+Calibri	44	italic	blue	line	blue	false	true	false	true	-50	true	false	true
+Verdana	24	default	white	wave	white	false	false	false	true	-1	false	true	true
+Verdana	3600	bold italic	red	line	red	false	false	false	true	-1	false	true	true
+Arial	3600	italic	white	line	black	false	true	false	false	0	false	true	false
+Calibri	3600	bold	green	wave	white	false	true	false	false	0	false	true	true
+Verdana	1	bold italic	red	wave	white	false	false	false	true	-50	false	true	false
+Courier	3600	bold italic	red	wave	black	false	true	false	true	-100	true	false	false
+Arial	3600	default	black	wave	black	false	true	true	false	1	false	false	false
