@@ -1,9 +1,9 @@
 ﻿Font: Verdana, Arial, Times New Roman, Calibri, Courier
-Size: 1, 24, 44, 3600
+Size: 1, 24, 44.50, 3600
 Mark: default, italic, bold, bold italic
-Color: black, red, green, blue, white
+Color: black, red, green, blue
 Underline: no, line, dotted, wave
-UnderlineСolor: no, white, black, red, blue
+UnderlineСolor: no, black, red, blue
 CrossedOut: true, false
 DoubleCrossedOut: true, false
 Superscript: true, false
